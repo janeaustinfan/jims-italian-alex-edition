@@ -1,8 +1,13 @@
 # Drinks
 
 | Price    | Name                     | Description                                                                                             |
+<<<<<<< HEAD
 | -------- | -------------------------| --------------------------------------------------------------------------------------------------------|
 | $8.99    | Italian Margarita        | A twist on the classic margarita made with tequila, amaretto, and lime juice. Served on the rocks with a salted rim. |
+=======
+| -------- | ------------------------| --------------------------------------------------------------------------------------------------------|
+| $7.99    | Italian Margarita        | A twist on the classic margarita made with tequila, amaretto, and lime juice. Served on the rocks with a salted rim. |
+>>>>>>> add-drinks
 | $7.99    | Negroni                  | A classic Italian cocktail made with gin, Campari, and sweet vermouth. Served on the rocks with an orange twist. |
 | $10.99   | Aperol Spritz            | A refreshing and light cocktail made with Aperol, Prosecco, and soda water. Served over ice with a slice of orange. |
 | $9.99    | Bellini                  | A classic cocktail made with Prosecco and peach puree. Served in a flute glass.                             |
@@ -13,6 +18,7 @@
 | $12.99   | Prosecco                 | A sparkling wine from the Veneto region of Italy, with floral and fruity notes.                              |
 | $8.99    | San Pellegrino           | A classic Italian sparkling mineral water. Available in 500 ml bottle.                                      |
 | $3.99    | Espresso                 | A strong and rich coffee served in a small cup.                                                              |
+<<<<<<< HEAD
 | $4.99    | Cappuccino               | A coffee drink made with espresso and steamed milk, topped with frothed milk.                                |
 
 
@@ -21,3 +27,6 @@
 
 
 
+=======
+| $4.99    | Cappuccino               | A coffee drink made with espresso and steamed milk, topped with frothed milk.                                |
+>>>>>>> add-drinks
