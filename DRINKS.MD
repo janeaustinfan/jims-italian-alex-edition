@@ -1,7 +1,7 @@
 # Drinks
 
 | Price    | Name                     | Description                                                                                             |
-| -------- | ------------------------| --------------------------------------------------------------------------------------------------------|
+| -------- | -------------------------| --------------------------------------------------------------------------------------------------------|
 | $8.99    | Italian Margarita        | A twist on the classic margarita made with tequila, amaretto, and lime juice. Served on the rocks with a salted rim. |
 | $7.99    | Negroni                  | A classic Italian cocktail made with gin, Campari, and sweet vermouth. Served on the rocks with an orange twist. |
 | $10.99   | Aperol Spritz            | A refreshing and light cocktail made with Aperol, Prosecco, and soda water. Served over ice with a slice of orange. |
